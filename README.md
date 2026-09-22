@@ -241,15 +241,3 @@ git push origin feature-name
 This project is licensed under the MIT License.
 
 ---
-
-## 👩‍💻 Author
-
-**Ritu Kumari**
-
-Graduate, National Institute of Technology (NIT) Silchar
-
-**Skills:** Python • Computer Vision • OpenCV • TensorFlow • Dlib • Deep Learning • Machine Learning
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
